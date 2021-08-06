@@ -1,0 +1,4 @@
+int - inteiros (7; 5; 8)
+float - (reais) decimais (2.25; 8.0)
+bool - True/False
+str - 'Olá'

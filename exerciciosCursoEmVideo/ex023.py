@@ -1,0 +1,6 @@
+num = int(input('Digite um número de 4 digitos'))
+n = str(num)
+print('{}'.format(n[3]))
+print('{}'.format(n[2]))
+print('{}'.format(n[1]))
+print('{}'.format(n[0]))
